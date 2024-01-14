@@ -1,4 +1,4 @@
---TR--
+--TR--<br>
 Öncelikle projeyi açmanız için Crystal Reports eklentisini bilgisayarınıza yüklemeniz gerekmektedir. Aksi takdirde program açılmayacaktır.
 
 LINK : https://origin-az.softwaredownloads.sap.com/public/file/0020000001649932022
@@ -24,7 +24,7 @@ Yapımcılar
 Gökhan Yargın<br>
 Cenk Barış Abağa
 
---EN--
+--EN--<br>
 Firstly, you need to install the Crystal Reports plugin on your computer in order to open the project. Otherwise, the program will not launch.
 
 LINK: https://origin-az.softwaredownloads.sap.com/public/file/0020000001649932022
