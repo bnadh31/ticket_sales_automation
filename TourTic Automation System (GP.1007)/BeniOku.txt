@@ -1,0 +1,7 @@
+Programın açılması için Crystal Report bilgisayara kurulmalıdır.(CRforVS13SP33_0-80007712)
+
+Crystal Report raporlama kısmı kendi veri tabanına entegre bir şekilde çalıştığı için gözükmeyecektir. Ekran görüntüleri mevcuttur.
+
+Setup dosyası proje dosyasının içindedir.(TourTic_Setup)
+
+Connection string değiştirilmelidir.
